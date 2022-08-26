@@ -1,0 +1,21 @@
+*{
+    font-family: "ubuntu";
+    margin: 0%;
+    padding: 0%;
+}
+.logo{
+    background-color: #2e9484;
+    width: 1530px;
+    height: 117px;
+    margin: 0%;
+}
+.menu{
+    display: flex;
+    justify-content: flex-end;
+    color: #fdfdfd;
+    gap:30px
+
+}
+.h1{
+    color: #ff4081
+}

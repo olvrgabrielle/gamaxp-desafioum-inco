@@ -1,0 +1,27 @@
+*{  font-family: "ubuntu";
+    margin: 0;
+    padding: 0;
+}
+.logo-contato{
+    background-color: #2e9484;
+    display: flex;
+    justify-content: flex-start;
+}
+.menu-contato{
+    flex-direction: row;
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+    color: #fdfdfd;
+}
+
+
+
+.rodape-contato{
+    background-color: #2e9484;
+}
+.menu-rodape-{
+    display: flex;
+    justify-content: center;
+
+}
